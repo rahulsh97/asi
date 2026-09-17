@@ -7,8 +7,8 @@
 asi_file_path(dir = asi_path())
 }
 \arguments{
-\item{dir}{Path to the ASI directory on disk. By default this is #' "asi" inside the user's R data directory, or the
-directory specified by the \code{ASI_DIR} environment variable if set.}
+\item{dir}{Path to the ASI directory on disk. By default this is "asi" inside the user's R data directory, or the
+directory specified by the \code{ASI_PATH} environment variable if set.}
 }
 \description{
 Returns the path to the local ASI database directory.
