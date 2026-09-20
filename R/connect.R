@@ -13,8 +13,8 @@ asi_path <- function() {
 #'
 #' Returns the path to the local ASI database directory.
 #'
-#' @param dir Path to the ASI directory on disk. By default this is #' "asi" inside the user's R data directory, or the
-#' directory specified by the `ASI_DIR` environment variable if set.
+#' @param dir Path to the ASI directory on disk. By default this is "asi" inside the user's R data directory, or the
+#' directory specified by the `ASI_PATH` environment variable if set.
 #'
 #' @export
 #'

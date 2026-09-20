@@ -2,7 +2,7 @@
 % Please edit documentation in R/download.r
 \name{asi_download}
 \alias{asi_download}
-\title{Download the Annual Survey of Industries database from GitHub (2019-2023)}
+\title{Download the Annual Survey of Industries database from GitHub (2015-16 to 2022-23)}
 \usage{
 asi_download(ver = NULL)
 }
